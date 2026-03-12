@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+import streamlit as st
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
